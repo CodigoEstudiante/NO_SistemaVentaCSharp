@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemaVentas
+</name>
+</assembly>
+<members>
+<member name="T:SistemaVentas.datosventasDataSet.cargoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.detalleventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.empleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.AccederUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.GenerarComprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCargoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarEmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerIdVentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerNroDocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerificarUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerRegistroDetalleVentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.cargoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.detalleventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.empleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.AccederUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.GenerarComprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCargoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarEmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerIdVentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerNroDocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerificarUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerRegistroDetalleVentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.cargoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.detalleventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.empleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.AccederUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.GenerarComprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCargoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarCategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarEmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.MostrarProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerIdVentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.ObtenerNroDocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerificarUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet.VerRegistroDetalleVentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.cargoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.detalleventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.empleadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.AccederUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.GenerarComprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.MostrarCargoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.MostrarCategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.MostrarClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.MostrarEmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.MostrarProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.ObtenerIdVentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.ObtenerNroDocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.VerificarUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.VerRegistroDetalleVentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVentas.datosventasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVentas.datosventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVentas.datosventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVentas.datosventasDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.cargoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.detalleventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.empleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.AccederUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.GenerarComprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCargoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarEmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerIdVentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerNroDocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerificarUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerRegistroDetalleVentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.cargoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.detalleventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.empleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.AccederUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.GenerarComprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCargoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarEmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerIdVentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerNroDocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerificarUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerRegistroDetalleVentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.cargoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.detalleventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.empleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.AccederUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.GenerarComprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCargoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarCategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarEmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.MostrarProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerIdVentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.ObtenerNroDocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerificarUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1.VerRegistroDetalleVentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.cargoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.detalleventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.empleadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.AccederUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.GenerarComprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.MostrarCargoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.MostrarCategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.MostrarClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.MostrarEmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.MostrarProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.ObtenerIdVentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.ObtenerNroDocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.VerificarUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.VerRegistroDetalleVentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVentas.datosventasDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVentas.datosventasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVentas.datosventasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.UpdateAll(SistemaVentas.datosventasDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SistemaVentas.datosventasDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.detalle_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.generar_comprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_detalle_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.validar_usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.detalle_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.generar_comprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_detalle_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.validar_usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.detalle_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.generar_comprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_detalle_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.mostrar_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet.validar_usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.detalle_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.generar_comprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.mostrar_categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.mostrar_clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.mostrar_detalle_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.mostrar_productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.mostrar_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.validar_usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVentas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVentas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVentas.dbventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVentas.dbventasDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SistemaVentas.dbventasDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Clientes">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Clientes_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Converted_file_bce8e43b_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Converted_file_d49d8510_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.Empleados_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.formulariosIcono">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.images__1_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.imprimir">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.leer">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.login">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.nuevo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.productos_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.refresh_24">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.salir_black">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SistemaVentas.My.Resources.Resources.ventas_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SistemaVentas.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

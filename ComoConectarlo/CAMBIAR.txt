@@ -1,0 +1,23 @@
+Fijarse en "Data Source" y "Initial Catalog"
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="dbventas" connectionString="Data Source=(DATO1);Initial Catalog=(DATO2);Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+   
+    </connectionStrings>
+   
+</configuration>
+
+
+
+LEYENDA =D
+
+DATO1 =>  Poner el nombre de tu equipo(Osea el servidor con que inicias el SQL)
+DATO2=> Poner el nombre de la base de datos, la cual restaurastes con el archivo .bak que te pase...(Ojo. si no cambiaste el nombre , este paso no es necesario pues seguira siendo "datosventas")
+
+Para finalizar le das en guardar cambios y listo!! disfruta del sistema 
